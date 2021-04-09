@@ -1,5 +1,14 @@
 # A estrada
 
+Meu primeiro código
 
 
-aqui quero começar minha jornada para aprender, seguir o caminho de desvenvolver soluções 
+```javascript
+   var numero = prompt('Digite um numero')
+   for(var i = 0; i <= numero; i++){
+            if(umero%i===0){
+                alert(`O dividendo do  valor ${numero} é:${numero/i}`)
+            }
+        }
+
+```
